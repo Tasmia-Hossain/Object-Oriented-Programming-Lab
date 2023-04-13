@@ -1,0 +1,7 @@
+Employee1 is putting 5, the current total number of eggs is 5
+customer3 is taking 4, the current total number of eggs in the shelf is 1
+customer2 is waiting.  The number of Eggs is 1 and he or she want to take 3
+customer1 is waiting.  The number of Eggs is 1 and he or she want to take 3
+Employee2 is putting 9, the current total number of eggs is 10
+customer1 is taking 3, the current total number of eggs in the shelf is 7
+customer2 is taking 3, the current total number of eggs in the shelf is 4
